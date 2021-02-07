@@ -8,3 +8,5 @@ __pycache__/
 *.tilix.json
 scripts/
 static/
+.idea/
+
